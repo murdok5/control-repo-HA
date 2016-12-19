@@ -3,8 +3,8 @@ forge "http://forge.puppetlabs.com"
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod "puppetlabs/inifile",     '1.5.0'
-mod "puppetlabs/stdlib"
-mod 'puppetlabs-pe_gem'
+mod "puppetlabs/stdlib", '4.14.0'
+mod 'puppetlabs-pe_gem', '0.2.0'
 mod 'puppetlabs-ntp', '6.0.0'
 #mod 'WhatsARanjit-node_manager', '0.3.0'
 

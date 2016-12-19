@@ -5,7 +5,7 @@ forge "http://forge.puppetlabs.com"
 #mod "puppetlabs/inifile",     '1.5.0'
 mod "puppetlabs/stdlib",      '4.11.0'
 mod 'puppetlabs-pe_gem', '0.2.0'
-mod 'puppetlabs-ntp', '1.0.0'
+mod 'puppetlabs-ntp', '6.0.0'
 #mod 'WhatsARanjit-node_manager', '0.3.0'
 
 # Modules from Git
